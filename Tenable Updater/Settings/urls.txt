@@ -1,0 +1,2 @@
+feed_url = 'feed_url_here'
+plugin_url = 'plugin_url_here'
