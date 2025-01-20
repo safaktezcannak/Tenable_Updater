@@ -43,8 +43,6 @@ Bu proje, belirli IP adreslerine ve zaman dilimlerine göre otomatik olarak dosy
 - 'Downloads' klasörü indirilen dosyaları içerir.
 - 'codes' klasörü altında çalışan Python betikleri yer alır.
 
-## Lisans
-Bu proje açık kaynaklıdır ve Şafak Tezcan NAK tarafından hazırlanmıştır. Daha fazla bilgi için @safaktezcannnak ile iletişime geçiniz.
 
 #---------ENGLISH VERSION---------#
 
@@ -84,6 +82,3 @@ This project automates the processes of downloading files, updating, and checkin
 - Process logs are stored in the 'Logs' folder.
 - Downloaded files are stored in the 'Downloads' folder.
 - Python scripts that run are located under the 'codes' folder.
-
-## License
-This project is open source and developed by Şafak Tezcan NAK. For more information, please contact @safaktezcan
